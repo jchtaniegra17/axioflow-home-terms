@@ -1,6 +1,6 @@
-AXIOFLOW HOME — TERMS OF USE (EULA)
+AXIOFLOW HOME · TERMS OF USE (EULA)
 
-Last Updated: August 28, 2026
+Last Updated: October 29, 2026
 
 Please read these Terms of Use ("Terms") carefully before using the Axioflow Home mobile application ("App") operated by Axioflow Home ("we," "us," or "our").
 
@@ -16,9 +16,8 @@ Axioflow Home is a household management app. It lets you track tasks and reminde
 
 Axioflow Home offers the following in-app purchases for "Axioflow Home Pro":
 
-- Monthly Plan — auto-renewing subscription, billed monthly
-- Yearly Plan — auto-renewing subscription, billed yearly
-- Lifetime — a one-time purchase, not a subscription, with no recurring charge
+- Monthly Plan: auto-renewing subscription, billed monthly
+- Yearly Plan: auto-renewing subscription, billed yearly
 
 Payment & Billing
 
@@ -35,9 +34,9 @@ Subscription prices may change from time to time. You will be notified in advanc
 
 3. FREE TIER
 
-The App offers a free plan supported by advertisements. The free plan includes 20 active tasks, 20 active reminders, 20 binder records, 5 attachments, 4 family members, the built-in reminder categories, the Apple Reminders integration, notifications, the calendar, and every theme. Tasks and reminders you have completed do not count toward these limits.
+The App offers a free plan supported by advertisements. The free plan includes 20 active tasks, 20 active reminders, 20 binder records, 5 attachments, 4 family members, the built-in reminder categories, linked Apple Calendar and Apple Reminders, notifications, the calendar, manual backups with export, import and restore, and a light or dark appearance. Tasks and reminders you have completed do not count toward these limits.
 
-Pro adds unlimited tasks, reminders, records, attachments, and family members; the Travel Plans module in full; AI trip planning, itinerary parsing, and Brain Dump; reading details from photos and PDFs; iCloud Sync; backups and restore; custom reminder categories; and removes ads.
+Pro adds unlimited tasks, reminders, records, attachments, and family members; the Travel Plans module in full; AI trip planning, itinerary parsing, and Brain Dump; reading details from photos and PDFs; iCloud Sync; automatic backups; custom reminder categories; and removes ads.
 
 Reaching a limit stops you creating new items of that kind. It never makes anything you have already saved unreadable, and it never prevents you editing or deleting what is there. If a subscription ends, your data remains on your device and fully readable.
 
@@ -50,7 +49,7 @@ The features in each plan may change; the App reflects the current split.
 - If you subscribe to Axioflow Home Pro and enable iCloud Sync, your data is synced and backed up through your own iCloud account. We do not store your data on our servers.
 - You are responsible for your own backups. Uninstalling the App deletes locally stored data, and we cannot recover it for you.
 - Document reading and all AI features run on your device. Nothing you type or attach is sent to us or to any third-party service. See our Privacy Policy (https://github.com/jchtaniegra17/axioflow-home-privacy) for details.
-- The Apple Reminders integration reads and writes reminders in your Apple Reminders app when you enable it. Marking an item complete in either app marks it complete in both.
+- When you link Apple Calendar or Apple Reminders, the App shows what those apps hold without copying it. Calendar events are shown as they are. A linked reminder you tick off or change in the App is changed in your Apple Reminders app. Those apps keep this data and send their own notifications.
 
 
 5. ACCEPTABLE USE
@@ -68,7 +67,7 @@ You agree not to:
 
 All content, design, code, and branding in Axioflow Home are the property of Axioflow Home and are protected by applicable intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the App for personal and household management purposes.
 
-Content you add — your photos, documents, and household records — remains yours.
+Content you add (your photos, documents, and household records) remains yours.
 
 
 7. DISCLAIMER OF WARRANTIES
